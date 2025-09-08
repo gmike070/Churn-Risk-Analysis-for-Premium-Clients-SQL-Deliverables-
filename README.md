@@ -131,8 +131,9 @@ when 'Medium' then 2
 when 'Low' then 3 
 end; 
 
-``
+```
 Output and Explanation – Query 6
+
 <img width="535" height="113" alt="image" src="https://github.com/user-attachments/assets/51f63ded-b939-49e3-82d1-ad2bd437569f" />
 
 The goal here is to show profit Category for each customer group: High, Medium and Low 
