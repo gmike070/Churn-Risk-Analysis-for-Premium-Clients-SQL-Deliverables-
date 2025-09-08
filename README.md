@@ -153,7 +153,7 @@ select *
 from Ranked_Customer 
 where Revenue_Rank <= (select round(0.15*count(*))from Costumers_tiers);
 
-``
+```
 Output and Explanation – Query 7
 
 <img width="482" height="201" alt="image" src="https://github.com/user-attachments/assets/d80a4b13-9213-4776-9416-80be8fd8a35f" />
