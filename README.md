@@ -11,6 +11,7 @@ SELECT *
 From Customers LIMIT 10;
 ```
 Output and Explanation – Query 1 
+
 <img width="482" height="167" alt="image" src="https://github.com/user-attachments/assets/21c677ba-b2d0-4f05-ac38-29a9438b7e7d" />
 
 This query returns a list of Ten Customers from Customer Table 
@@ -18,7 +19,7 @@ This query returns a list of Ten Customers from Customer Table
 2. SQL Query 2: Count Premium and Regular
  ```
 SELECT Ispremium, count (*) from Customers Group by Ispremium;
-``
+```
 Output and Explanation – Query 2
 
 <img width="482" height="109" alt="image" src="https://github.com/user-attachments/assets/73ad05d4-7a23-4228-aaf3-77d628760b54" />
