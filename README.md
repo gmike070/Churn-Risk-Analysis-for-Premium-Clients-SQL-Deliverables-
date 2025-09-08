@@ -1,5 +1,5 @@
 # Churn-Risk-Analysis-for-Premium-Clients-SQL-Deliverables-
-Churn Risk Analysis for Premium Clients – SQL Deliverables 
+ 
 ## Introduction 
 This project outlines the SQL-based analysis conducted to address the increasing churn rate 
 (25%) among premium clients at Bank of America. These clients make up 15% of the customer 
